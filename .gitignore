@@ -1,0 +1,12 @@
+# ユーザー辞書データ・変換出力（個人情報保護）
+*.plist
+*.txt
+*.zip
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
